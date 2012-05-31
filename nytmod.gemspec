@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/nytmod.rb",
+    "nytmod.gemspec",
     "spec/nytmod_spec.rb",
     "spec/spec_helper.rb"
   ]
