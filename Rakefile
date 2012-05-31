@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "nytmod"
   gem.homepage = "http://github.com/pilhofer/nytmod"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "A gem to install our standard moderation interface."
+  gem.description = "This gem will create a moderation backend"
   gem.email = "aron@nytimes.com"
   gem.authors = ["Aron Pilhofer"]
   # dependencies defined in Gemfile
